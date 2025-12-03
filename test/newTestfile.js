@@ -1,3 +1,3 @@
 console.log('Hi!');
 //new changes
-console.log('Hi2!);
+console.log('Hi2!');
